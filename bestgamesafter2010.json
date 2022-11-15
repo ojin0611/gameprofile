@@ -1,0 +1,1721 @@
+[
+  {
+    "id": 204350,
+    "age_ratings": [
+      77359,
+      98405,
+      98406,
+      98407,
+      98408,
+      98409,
+      98410
+    ],
+    "aggregated_rating": 88.2857142857143,
+    "aggregated_rating_count": 11,
+    "alternative_names": [
+      91173,
+      94127,
+      100496,
+      100497,
+      100498
+    ],
+    "artworks": [
+      78416,
+      78417,
+      78418
+    ],
+    "category": 8,
+    "collection": 864,
+    "cover": 226235,
+    "created_at": 1654795583,
+    "external_games": [
+      2447549,
+      2447763,
+      2448424,
+      2448463,
+      2448503,
+      2452565,
+      2586566,
+      2586861
+    ],
+    "first_release_date": 1661990400,
+    "follows": 10,
+    "franchises": [
+      2675
+    ],
+    "game_modes": [
+      1
+    ],
+    "genres": [
+      5,
+      31
+    ],
+    "hypes": 7,
+    "involved_companies": [
+      174439,
+      174440
+    ],
+    "keywords": [
+      5,
+      69,
+      977,
+      6378,
+      10842,
+      10862,
+      30206
+    ],
+    "name": "The Last of Us Part I",
+    "parent_game": 1009,
+    "platforms": [
+      6,
+      167
+    ],
+    "player_perspectives": [
+      2
+    ],
+    "rating": 99.8423986883477,
+    "rating_count": 10,
+    "release_dates": [
+      364025,
+      394572
+    ],
+    "screenshots": [
+      809286,
+      809287
+    ],
+    "similar_games": [
+      13210,
+      17379,
+      19561,
+      19564,
+      26192,
+      37016,
+      44076,
+      102584,
+      105049,
+      111130
+    ],
+    "slug": "the-last-of-us-part-i",
+    "storyline": "Twenty years after a mutated fungus started turning people all over the world into deadly zombies, humans become an endangered species. Joel, a Texan in his forties with the \"emotional range of a teaspoon\" (to quote Hermione from Harry Potter), finds himself responsible with the safety of a fourteen year old girl named Ellie whom he must smuggle to a militia group called the Fireflies. And as if the infected aren\u0027t enough of a hassle, they also have to deal with the authorities who wouldn\u0027t let them leave the quarantine zone, as well as other survivors capable of killing anyone who might have something useful in their backpacks.",
+    "summary": "Experience the emotional storytelling and unforgettable characters of Joel and Ellie in The Last of Us, winner of over 200 Game of the Year awards and now rebuilt for PlayStation5.\n\nEnjoy a total overhaul of the original experience, faithfully reproduced but incorporating modernized gameplay, improved controls and expanded accessibility options. Plus, feel immersed with improved effects and enhanced exploration and combat.",
+    "tags": [
+      1,
+      19,
+      21,
+      23,
+      268435461,
+      268435487,
+      536870917,
+      536870981,
+      536871889,
+      536877290,
+      536881754,
+      536881774,
+      536901118
+    ],
+    "themes": [
+      1,
+      19,
+      21,
+      23
+    ],
+    "total_rating": 94.064056487031,
+    "total_rating_count": 21,
+    "updated_at": 1668473720,
+    "url": "https://www.igdb.com/games/the-last-of-us-part-i",
+    "videos": [
+      69354
+    ],
+    "websites": [
+      288703,
+      308730,
+      318195,
+      318196
+    ],
+    "checksum": "41685272-8d5a-1ebc-99d1-af13cf234468",
+    "game_localizations": [
+      1563,
+      1636
+    ]
+  },
+  {
+    "id": 20196,
+    "age_ratings": [
+      47727,
+      47728,
+      69012
+    ],
+    "aggregated_rating": 87.0,
+    "aggregated_rating_count": 3,
+    "alternative_names": [
+      39342
+    ],
+    "category": 3,
+    "collection": 2128,
+    "cover": 193803,
+    "created_at": 1468270927,
+    "external_games": [
+      54405,
+      118464,
+      1923414,
+      1931618,
+      1933251,
+      1937630
+    ],
+    "first_release_date": 1373328000,
+    "follows": 17,
+    "franchises": [
+      463
+    ],
+    "game_modes": [
+      1
+    ],
+    "genres": [
+      12,
+      31
+    ],
+    "involved_companies": [
+      37442,
+      37443
+    ],
+    "keywords": [
+      1087
+    ],
+    "name": "Metal Gear Solid: The Legacy Collection",
+    "platforms": [
+      9
+    ],
+    "player_perspectives": [
+      2
+    ],
+    "rating": 99.6845032496081,
+    "rating_count": 29,
+    "release_dates": [
+      53554,
+      53555,
+      53556,
+      53557
+    ],
+    "screenshots": [
+      846416,
+      846417,
+      846418
+    ],
+    "similar_games": [
+      25311,
+      55199,
+      80916,
+      81249,
+      96217,
+      103303,
+      105049,
+      105269,
+      106987,
+      115280
+    ],
+    "slug": "metal-gear-solid-the-legacy-collection",
+    "summary": "Metal Gear Solid: The Legacy Collection is a video game compilation released exclusively for the PlayStation 3. It includes all the mainline Metal Gear games directed and designed by Hideo Kojima (including the VR Missions standalone expansion) that were released from 1987 through 2012. Bonus content include motion comic adaptations of the Metal Gear Solid graphic novels by Kris Oprisko and Ashley Wood and a 100-page booklet that catalogs numerous promotional posters, brochures and advertisement related to the games in the compilation.",
+    "tags": [
+      1,
+      23,
+      268435468,
+      268435487,
+      536871999
+    ],
+    "themes": [
+      1,
+      23
+    ],
+    "total_rating": 93.34225162480405,
+    "total_rating_count": 32,
+    "updated_at": 1667933850,
+    "url": "https://www.igdb.com/games/metal-gear-solid-the-legacy-collection",
+    "videos": [
+      8864
+    ],
+    "websites": [
+      125613,
+      154303
+    ],
+    "checksum": "37b27e87-2b80-48b6-b337-6733e6385ac7"
+  },
+  {
+    "id": 45131,
+    "age_ratings": [
+      90110
+    ],
+    "alternative_names": [
+      53202,
+      53203,
+      53204,
+      53205,
+      53206
+    ],
+    "category": 0,
+    "collection": 847,
+    "cover": 123528,
+    "created_at": 1499454358,
+    "external_games": [
+      26297,
+      1933044
+    ],
+    "first_release_date": 1379376000,
+    "follows": 1,
+    "franchises": [
+      493
+    ],
+    "game_modes": [
+      1
+    ],
+    "genres": [
+      5,
+      10,
+      14
+    ],
+    "involved_companies": [
+      104253,
+      104254
+    ],
+    "name": "Grand Theft Auto V: Special Edition",
+    "platforms": [
+      9,
+      12
+    ],
+    "player_perspectives": [
+      1,
+      2
+    ],
+    "rating": 99.6394949501019,
+    "rating_count": 15,
+    "release_dates": [
+      94075,
+      159145
+    ],
+    "screenshots": [
+      344198,
+      393460,
+      393461,
+      393462
+    ],
+    "similar_games": [
+      19164,
+      37419,
+      87673,
+      90099,
+      105011,
+      105049,
+      106805,
+      115785,
+      118871,
+      119161
+    ],
+    "slug": "grand-theft-auto-v-special-edition",
+    "summary": "The Grand Theft Auto V Special Edition includes: Full retail copy of Grand Theft Auto V; Collectible SteelBook with Exclusive Artwork - features custom color and metallic treatments to bring out the detail of the Michael, Trevor and Franklin artwork created exclusively for this SteelBook; Blueprint Map - exclusive, 21.5” x 26.75” map displays a blueprint view of Los Santos and Blaine County; Special Ability Boost - Michael, Franklin and Trevor each have a unique special ability. With this boost, the special ability bar will generate 25% faster; Stunt Plane Trials – single-player Stunt Plane Trials let players take on additional aerial challenges spread throughout Los Santos and Blaine County; Bonus Outfits, Tattoos and More - Michael, Franklin and Trevor get bonus outfits in their wardrobes, character specific tattoos at tattoo parlors, and special deals from shopkeepers across Los Santos and Blaine County; Additional Weapons - when visiting Ammunation stores in single-player, merchants will have special weapons in their inventory available for free: the Pistol .50, Bullpup Shotgun and melee Hammer.\n\nGrand Theft Auto V is the largest and most ambitious game Rockstar Games has yet created, and takes full advantage of every ounce of processing power available in the current generation of consoles. In order to provide the best possible experience for such a massive and detailed world, the game will have installation requirements on the Xbox 360.\n\nGrand Theft Auto V will ship on two discs; Disc 1 will be used for a one-time mandatory install and Disc 2 will be used to play the game. After the install, players will be able to enjoy both Grand Theft Auto V and Grand Theft Auto Online without any need to switch discs.\n\nThis initial install will require an Xbox 360 Hard Drive or an external 16GB USB flash drive (sold separately) with at least 8 GB of free space. If using a USB flash drive it must be at least USB 2.0 with a minimum 15mb/s read speed and formatted for Xbox 360 use. A new USB flash drive is recommended to ensure optimum performance.",
+    "tags": [
+      1,
+      27,
+      38,
+      268435461,
+      268435466,
+      268435470
+    ],
+    "themes": [
+      1,
+      27,
+      38
+    ],
+    "total_rating": 99.6394949501019,
+    "total_rating_count": 15,
+    "updated_at": 1668371524,
+    "url": "https://www.igdb.com/games/grand-theft-auto-v-special-edition",
+    "version_parent": 1020,
+    "version_title": "Special Edition",
+    "checksum": "839de73f-260a-2e1e-648c-dbcf06e8a24d"
+  },
+  {
+    "id": 72327,
+    "category": 0,
+    "cover": 130589,
+    "created_at": 1506732878,
+    "external_games": [
+      73633,
+      119359,
+      1185935
+    ],
+    "first_release_date": 1303344000,
+    "follows": 1,
+    "game_modes": [
+      1,
+      2,
+      3
+    ],
+    "genres": [
+      25
+    ],
+    "hypes": 1,
+    "involved_companies": [
+      95431
+    ],
+    "keywords": [
+      61,
+      117,
+      301,
+      939,
+      982,
+      1059,
+      1147,
+      1617,
+      2004,
+      2679,
+      3384,
+      3833,
+      4134,
+      4163,
+      4183,
+      4472,
+      4508,
+      4544,
+      4658,
+      4660,
+      4743,
+      4819,
+      4880,
+      4996,
+      5022,
+      5502,
+      5578,
+      5665,
+      5730,
+      5775,
+      5844,
+      5923,
+      6077,
+      6152,
+      6385,
+      7357,
+      7475,
+      8130,
+      8845,
+      24124
+    ],
+    "multiplayer_modes": [
+      14646
+    ],
+    "name": "Streets of Rage Remake",
+    "platforms": [
+      6
+    ],
+    "rating": 99.6342522148029,
+    "rating_count": 10,
+    "release_dates": [
+      192346
+    ],
+    "screenshots": [
+      127037,
+      127038,
+      127039
+    ],
+    "similar_games": [
+      1652,
+      1655,
+      3222,
+      14704,
+      21564,
+      22387,
+      27419,
+      36198,
+      55190,
+      56033
+    ],
+    "slug": "streets-of-rage-remake",
+    "summary": "Streets of Rage Remake is a fangame reboot on the trilogy Streets of Rage.",
+    "tags": [
+      1,
+      18,
+      268435481,
+      536870973,
+      536871029,
+      536871213,
+      536871851,
+      536871894,
+      536871971,
+      536872059,
+      536872529,
+      536872916,
+      536873591,
+      536874296,
+      536874745,
+      536875046,
+      536875075,
+      536875095,
+      536875384,
+      536875420,
+      536875456,
+      536875570,
+      536875572,
+      536875655,
+      536875731,
+      536875792,
+      536875908,
+      536875934,
+      536876414,
+      536876490,
+      536876577,
+      536876642,
+      536876687,
+      536876756,
+      536876835,
+      536876989,
+      536877064,
+      536877297,
+      536878269,
+      536878387,
+      536879042,
+      536879757,
+      536895036
+    ],
+    "themes": [
+      1,
+      18
+    ],
+    "total_rating": 99.6342522148029,
+    "total_rating_count": 10,
+    "updated_at": 1666262877,
+    "url": "https://www.igdb.com/games/streets-of-rage-remake",
+    "videos": [
+      34876
+    ],
+    "websites": [
+      137922
+    ],
+    "checksum": "5624f20d-b4f1-f739-da9f-3ced48a19dba"
+  },
+  {
+    "id": 11226,
+    "alternative_names": [
+      17971,
+      18442
+    ],
+    "artworks": [
+      40881
+    ],
+    "category": 0,
+    "collection": 1499,
+    "cover": 10508,
+    "created_at": 1434695086,
+    "external_games": [
+      1985247,
+      2072253
+    ],
+    "first_release_date": 959817600,
+    "follows": 2,
+    "franchises": [
+      583
+    ],
+    "game_modes": [
+      1,
+      2
+    ],
+    "genres": [
+      13,
+      14
+    ],
+    "involved_companies": [
+      24362
+    ],
+    "keywords": [
+      1166,
+      1511,
+      1626
+    ],
+    "name": "Anstoss 3",
+    "platforms": [
+      6
+    ],
+    "player_perspectives": [
+      5
+    ],
+    "rating": 99.5785817332036,
+    "rating_count": 8,
+    "release_dates": [
+      30846
+    ],
+    "screenshots": [
+      515729,
+      515730,
+      515731,
+      515732,
+      515733
+    ],
+    "similar_games": [
+      29173,
+      30830,
+      38967,
+      41621,
+      55888,
+      114285,
+      117717,
+      118871,
+      119422,
+      120126
+    ],
+    "slug": "anstoss-3",
+    "summary": "2000 wurde mit Anstoss 3 die zweite Fortsetzung veröffentlicht. Innerhalb eines Jahres verkaufte es sich mehr als 200.000 Mal. Von den Spielemagazinen wurde es mit guten Wertungen bedacht (z. B. PC Player 87 %, Gamestar 88 %, PC Games 86 %).\nJedoch war es zu Beginn geradezu gefüllt mit Bugs, was von der Spielergemeinde kritisiert wurde. Dennoch wurde es von den Anstoss-Fans mit Begeisterung aufgenommen, da es die wichtigsten Elemente von Anstoss 2 Gold enthielt und diese noch weiter vertiefen konnte.\nAls besonders gelungen gilt die 3D-Spieldarstellung. Der Spieler konnte sich ein komplettes Spiel seines Teams reduziert auf neun Minuten ansehen. Auch der Szenenmodus galt als revolutionär, da die Szenen nicht, wie in den Vorgängerteilen, vorberechnet wurden. Kommentiert wurden die Spielszenen durch den bekannten Fußballkommentator Günther Koch.\nAuch neu war die Umsetzung des Vereinsgeländes. Von Apfelbäumen über Konditionsparcours und Doping-Labor bis hin zu Wolkenkratzern konnte der Spieler sein Vereinsgelände mit Gebäuden, Gegenständen und Lebewesen mit und ohne Nutzen erweitern.\nMit der Veröffentlichung des finalen Patches auf Version 1.40 wurde es nahezu bugfrei und konnte die Anstoss-Spieler überzeugen. Insgesamt wurden bis heute über eine Million Exemplare von Anstoss 3 verkauft und machen es damit zu einem der erfolgreichsten PC-Spiele Deutschlands. Trotz seines Alters wird Anstoss 3 durch die große Spieltiefe zusammen mit einem gelungenen Text- und 3D-Modus als bester Teil der Anstoss-Reihe angesehen. Dass Anstoss 3 auch heute noch sehr beliebt ist, hängt auch mit dem Multiplayermodus zusammen. So wird es bis zu 4 Spielern ermöglicht, im Netzwerk gegeneinander anzutreten.",
+    "tags": [
+      28,
+      268435469,
+      268435470,
+      536872078,
+      536872423,
+      536872538
+    ],
+    "themes": [
+      28
+    ],
+    "total_rating": 99.5785817332036,
+    "total_rating_count": 8,
+    "updated_at": 1665906682,
+    "url": "https://www.igdb.com/games/anstoss-3",
+    "videos": [
+      4495
+    ],
+    "websites": [
+      3661,
+      196872
+    ],
+    "checksum": "7ab1d9f1-c814-47a7-95be-96f684ad08b2"
+  },
+  {
+    "id": 122661,
+    "age_ratings": [
+      25968,
+      25969
+    ],
+    "category": 2,
+    "collection": 62,
+    "cover": 81851,
+    "created_at": 1569866569,
+    "first_release_date": 1569974400,
+    "follows": 1,
+    "franchises": [
+      452
+    ],
+    "game_modes": [
+      1,
+      2
+    ],
+    "genres": [
+      15
+    ],
+    "involved_companies": [
+      92867
+    ],
+    "keywords": [
+      3171
+    ],
+    "name": "Gwent: Iron Judgment",
+    "parent_game": 19474,
+    "platforms": [
+      49
+    ],
+    "player_perspectives": [
+      3
+    ],
+    "rating": 99.52614238255609,
+    "rating_count": 6,
+    "release_dates": [
+      176738
+    ],
+    "screenshots": [
+      361507,
+      361509,
+      361510,
+      361511,
+      361512,
+      361513
+    ],
+    "similar_games": [
+      11407,
+      13196,
+      19404,
+      32510,
+      56967,
+      99118,
+      113201,
+      116992,
+      119156,
+      120184
+    ],
+    "slug": "gwent-iron-judgment",
+    "summary": "The North is on the rise and Radovid is back to bring justice to his enemies — the kind of justice that is being served by fire and iron. Stand by his side or defy royal authority — whichever you choose, get ready for some of the fiercest battles in GWENT’s history. Relive the Battle of Brenna, learn the secrets of the Salamandra, or join Gascon’s company of noble criminals — there is plenty of opportunities to get into a fight in GWENT: Iron Judgment.",
+    "tags": [
+      17,
+      268435471,
+      536874083
+    ],
+    "themes": [
+      17
+    ],
+    "total_rating": 99.52614238255609,
+    "total_rating_count": 6,
+    "updated_at": 1656256660,
+    "url": "https://www.igdb.com/games/gwent-iron-judgment",
+    "videos": [
+      30243
+    ],
+    "websites": [
+      117340,
+      117341,
+      117342,
+      117343,
+      133387,
+      133388,
+      133389,
+      133390,
+      133391
+    ],
+    "checksum": "95911dcd-38ae-f9ce-631a-d4891df2f319"
+  },
+  {
+    "id": 51267,
+    "alternative_names": [
+      54483,
+      61245,
+      61246
+    ],
+    "bundles": [
+      146941
+    ],
+    "category": 3,
+    "collection": 1622,
+    "cover": 224206,
+    "created_at": 1500063134,
+    "external_games": [
+      38606,
+      123351
+    ],
+    "first_release_date": 1252972800,
+    "follows": 1,
+    "franchises": [
+      2155
+    ],
+    "game_engines": [
+      219
+    ],
+    "game_modes": [
+      1
+    ],
+    "genres": [
+      31,
+      34
+    ],
+    "involved_companies": [
+      127952
+    ],
+    "keywords": [
+      78,
+      221,
+      226,
+      846,
+      1180,
+      1313,
+      1881,
+      3831,
+      4142,
+      4169,
+      4560,
+      4678,
+      5380,
+      5675
+    ],
+    "name": "Umineko: When They Cry Chiru",
+    "platforms": [
+      6
+    ],
+    "player_perspectives": [
+      5
+    ],
+    "rating": 99.5224050038471,
+    "rating_count": 15,
+    "release_dates": [
+      243733,
+      243734
+    ],
+    "similar_games": [
+      8968,
+      10760,
+      15830,
+      25921,
+      28010,
+      55984,
+      67228,
+      79845,
+      114150,
+      116530
+    ],
+    "slug": "umineko-when-they-cry-chiru",
+    "summary": "Umineko no Naku Koro ni Chiru is the second half of the Umineko no Naku Koro ni series, and contains Episodes 5 to 8 of the story. Unlike the second half of Higurashi no Naku Koro ni, Umineko Chiru does not simply present direct solutions to the first four arcs, but instead gradually delves into the core of the story, revealing clues to its mysteries in the process. It is also referred to as When They Cry 4 in the overall When They Cry franchise.",
+    "tags": [
+      17,
+      19,
+      20,
+      28,
+      31,
+      268435487,
+      268435490,
+      536870990,
+      536871133,
+      536871138,
+      536871758,
+      536872092,
+      536872225,
+      536872793,
+      536874743,
+      536875054,
+      536875081,
+      536875472,
+      536875590,
+      536876292,
+      536876587
+    ],
+    "themes": [
+      17,
+      19,
+      20,
+      28,
+      31
+    ],
+    "total_rating": 99.5224050038471,
+    "total_rating_count": 15,
+    "updated_at": 1667481887,
+    "url": "https://www.igdb.com/games/umineko-when-they-cry-chiru",
+    "websites": [
+      181392
+    ],
+    "checksum": "899ef000-2cbf-3e5f-bf4b-071596f6b481",
+    "remasters": [
+      75081
+    ]
+  },
+  {
+    "id": 5951,
+    "age_ratings": [
+      3321,
+      73684,
+      73685,
+      73686
+    ],
+    "aggregated_rating": 51.25,
+    "aggregated_rating_count": 4,
+    "category": 0,
+    "collection": 148,
+    "cover": 114888,
+    "created_at": 1396757928,
+    "external_games": [
+      24395,
+      150253,
+      190237,
+      213900,
+      1303523,
+      1919362,
+      2161481
+    ],
+    "first_release_date": 1159142400,
+    "follows": 3,
+    "franchise": 16,
+    "franchises": [
+      16
+    ],
+    "game_modes": [
+      1,
+      2,
+      4
+    ],
+    "genres": [
+      13,
+      14
+    ],
+    "involved_companies": [
+      14306,
+      14307
+    ],
+    "keywords": [
+      58,
+      809,
+      1148,
+      1166,
+      1293,
+      1333,
+      1440,
+      2362,
+      2543,
+      4161,
+      4226,
+      4228,
+      4274,
+      4359,
+      4452,
+      4613,
+      4698,
+      4747,
+      4823,
+      4837,
+      4890,
+      4958,
+      5029,
+      5850,
+      5909,
+      6036,
+      6545,
+      6546,
+      6547,
+      6549,
+      6551,
+      6552,
+      6554,
+      6557,
+      6562,
+      6563,
+      6566,
+      6575,
+      7199,
+      8156,
+      9075,
+      9222,
+      9360,
+      9927,
+      9928,
+      10445,
+      11213,
+      11450,
+      11757,
+      11759,
+      12116,
+      12123,
+      13106,
+      19815
+    ],
+    "name": "NBA Live 07",
+    "platforms": [
+      6,
+      8,
+      11,
+      12,
+      38,
+      55
+    ],
+    "player_perspectives": [
+      2
+    ],
+    "rating": 99.5010468792201,
+    "rating_count": 18,
+    "release_dates": [
+      14595,
+      14596,
+      14597,
+      14598,
+      14599,
+      14600
+    ],
+    "screenshots": [
+      26615,
+      406011,
+      406012,
+      406013
+    ],
+    "similar_games": [
+      4033,
+      4034,
+      5061,
+      7381,
+      7382,
+      8834,
+      8835,
+      8836,
+      8837,
+      8838
+    ],
+    "slug": "nba-live-07",
+    "summary": "NBA Live is a series of basketball video games, published by EA Sports. It is the successor to EA\u0027s previous NBA Playoffs and NBA Showdown series. Its main competitor is the NBA 2K series.",
+    "tags": [
+      268435469,
+      268435470,
+      536870970,
+      536871721,
+      536872060,
+      536872078,
+      536872205,
+      536872245,
+      536872352,
+      536873274,
+      536873455,
+      536875073,
+      536875138,
+      536875140,
+      536875186,
+      536875271,
+      536875364,
+      536875525,
+      536875610,
+      536875659,
+      536875735,
+      536875749,
+      536875802,
+      536875870,
+      536875941,
+      536876762,
+      536876821,
+      536876948,
+      536877457,
+      536877458,
+      536877459,
+      536877461,
+      536877463,
+      536877464,
+      536877466,
+      536877469,
+      536877474,
+      536877475,
+      536877478,
+      536877487,
+      536878111,
+      536879068,
+      536879987,
+      536880134,
+      536880272,
+      536880839,
+      536880840,
+      536881357,
+      536882125,
+      536882362,
+      536882669,
+      536882671,
+      536883028,
+      536883035,
+      536884018,
+      536890727
+    ],
+    "total_rating": 75.37552343961005,
+    "total_rating_count": 22,
+    "updated_at": 1665906686,
+    "url": "https://www.igdb.com/games/nba-live-07",
+    "websites": [
+      130848,
+      284802
+    ],
+    "checksum": "8d393d6d-2b0a-83dd-e6f7-3330899b0714"
+  },
+  {
+    "id": 21073,
+    "age_ratings": [
+      35472,
+      79237,
+      90534,
+      96222
+    ],
+    "aggregated_rating": 74.3333333333333,
+    "aggregated_rating_count": 7,
+    "alternative_names": [
+      24052,
+      46881,
+      108875,
+      108876,
+      108877
+    ],
+    "category": 11,
+    "collection": 2128,
+    "cover": 101884,
+    "created_at": 1469280684,
+    "external_games": [
+      28068,
+      128194,
+      218869,
+      247716,
+      1933704,
+      2609305
+    ],
+    "first_release_date": 1329782400,
+    "follows": 5,
+    "franchises": [
+      463
+    ],
+    "game_modes": [
+      1
+    ],
+    "genres": [
+      5,
+      15,
+      31
+    ],
+    "involved_companies": [
+      51395,
+      51396
+    ],
+    "keywords": [
+      22,
+      132,
+      167,
+      221,
+      339,
+      472,
+      563,
+      623,
+      846,
+      872,
+      939,
+      1188,
+      1219,
+      1289,
+      1437,
+      1440,
+      1539,
+      1638,
+      1779,
+      1953,
+      1971,
+      2115,
+      2337,
+      2415,
+      2416,
+      3486,
+      3782,
+      3794,
+      3831,
+      3833,
+      4090,
+      4140,
+      4161,
+      4250,
+      4266,
+      4324,
+      4330,
+      4359,
+      4398,
+      4446,
+      4507,
+      4508,
+      4525,
+      4570,
+      4575,
+      4578,
+      4641,
+      4756,
+      4841,
+      4855,
+      4857,
+      4907,
+      4919,
+      4956,
+      4965,
+      4998,
+      5096,
+      5175,
+      5178,
+      5209,
+      5257,
+      5275,
+      5277,
+      5299,
+      5307,
+      5323,
+      5349,
+      5386,
+      5405,
+      5411,
+      5451,
+      5453,
+      5529,
+      5557,
+      5564,
+      5583,
+      5593,
+      5595,
+      5609,
+      5610,
+      5677,
+      5696,
+      5697,
+      5789,
+      5813,
+      5823,
+      5891,
+      5963,
+      5989,
+      6010,
+      6068,
+      6084,
+      6088,
+      6216,
+      6221,
+      6237,
+      6239,
+      6246,
+      6309,
+      6323,
+      6326,
+      6391,
+      6468,
+      6622,
+      6624,
+      6731,
+      6742,
+      6746,
+      6788,
+      6828,
+      6864,
+      6870,
+      6883,
+      7038,
+      7051,
+      7074,
+      7110,
+      7120,
+      7171,
+      7185,
+      7221,
+      7343,
+      7355,
+      7419,
+      7494,
+      7576,
+      7637,
+      7650,
+      7665,
+      8156,
+      8300,
+      8311,
+      8321,
+      8672,
+      8795,
+      8827,
+      8845,
+      8858,
+      8915,
+      8982,
+      8983,
+      9080,
+      9154,
+      9160,
+      9283,
+      9310,
+      9322,
+      9323,
+      9328,
+      9329,
+      9340,
+      9374,
+      9448,
+      9596,
+      9626,
+      9694,
+      9792,
+      9797,
+      9799,
+      9800,
+      9801,
+      9802,
+      9838,
+      9951,
+      9952,
+      9966,
+      9971,
+      10008,
+      10156,
+      10519,
+      10683,
+      10756,
+      10763,
+      11099,
+      11121,
+      11280,
+      11281,
+      11533,
+      11636,
+      11768,
+      12013,
+      12028,
+      12442,
+      12462,
+      12665,
+      12666
+    ],
+    "name": "Metal Gear Solid: Snake Eater 3D",
+    "parent_game": 379,
+    "platforms": [
+      37
+    ],
+    "player_perspectives": [
+      1,
+      2
+    ],
+    "rating": 99.31008679347289,
+    "rating_count": 11,
+    "release_dates": [
+      87970,
+      87971,
+      141284
+    ],
+    "screenshots": [
+      28551,
+      165387,
+      165388,
+      165389,
+      165390,
+      165391,
+      165392,
+      165393,
+      165394,
+      165395,
+      165396,
+      165397
+    ],
+    "similar_games": [
+      359,
+      374,
+      375,
+      377,
+      378,
+      379,
+      564,
+      1009,
+      1985,
+      7194
+    ],
+    "slug": "metal-gear-solid-snake-eater-3d",
+    "summary": "Metal Gear Solid: Snake Eater 3D is a stealth action game for the Nintendo 3DS. It is a re-release of Metal Gear Solid 3: Snake Eater. The game was released on February, 21, 2012 in North America and on March 8, 2012 in Japan and Europe. It is also the first Metal Gear game to be released on a Nintendo-developed portable system since Metal Gear: Ghost Babel, back in 2000. A digital download version was released in Japan via the Nintendo eShop function on the Nintendo 3DS on December 16, 2014, exactly a decade after the initial release of the original title. The download includes a Snake Eater theme, which included a FOX logo wallpaper, the theme song for the game, cursor sound effects from the Metal Gear series, and folders modeled after the cardboard boxes from the series. Both the digital download for the game itself as well as the 3DS theme were later released in both Europe and North America on December 18, with the game itself costing $19.99. A patch was released a day later to fix a glitch occurring in the WIG area that freezes the game and corrupts save data when using the Circle Pad Pro",
+    "tags": [
+      1,
+      21,
+      23,
+      268435461,
+      268435471,
+      268435487,
+      536870934,
+      536871044,
+      536871079,
+      536871133,
+      536871251,
+      536871384,
+      536871475,
+      536871535,
+      536871758,
+      536871784,
+      536871851,
+      536872100,
+      536872131,
+      536872201,
+      536872349,
+      536872352,
+      536872451,
+      536872550,
+      536872691,
+      536872865,
+      536872883,
+      536873027,
+      536873249,
+      536873327,
+      536873328,
+      536874398,
+      536874694,
+      536874706,
+      536874743,
+      536874745,
+      536875002,
+      536875052,
+      536875073,
+      536875162,
+      536875178,
+      536875236,
+      536875242,
+      536875271,
+      536875310,
+      536875358,
+      536875419,
+      536875420,
+      536875437,
+      536875482,
+      536875487,
+      536875490,
+      536875553,
+      536875668,
+      536875753,
+      536875767,
+      536875769,
+      536875819,
+      536875831,
+      536875868,
+      536875877,
+      536875910,
+      536876008,
+      536876087,
+      536876090,
+      536876121,
+      536876169,
+      536876187,
+      536876189,
+      536876211,
+      536876219,
+      536876235,
+      536876261,
+      536876298,
+      536876317,
+      536876323,
+      536876363,
+      536876365,
+      536876441,
+      536876469,
+      536876476,
+      536876495,
+      536876505,
+      536876507,
+      536876521,
+      536876522,
+      536876589,
+      536876608,
+      536876609,
+      536876701,
+      536876725,
+      536876735,
+      536876803,
+      536876875,
+      536876901,
+      536876922,
+      536876980,
+      536876996,
+      536877000,
+      536877128,
+      536877133,
+      536877149,
+      536877151,
+      536877158,
+      536877221,
+      536877235,
+      536877238,
+      536877303,
+      536877380,
+      536877534,
+      536877536,
+      536877643,
+      536877654,
+      536877658,
+      536877700,
+      536877740,
+      536877776,
+      536877782,
+      536877795,
+      536877950,
+      536877963,
+      536877986,
+      536878022,
+      536878032,
+      536878083,
+      536878097,
+      536878133,
+      536878255,
+      536878267,
+      536878331,
+      536878406,
+      536878488,
+      536878549,
+      536878562,
+      536878577,
+      536879068,
+      536879212,
+      536879223,
+      536879233,
+      536879584,
+      536879707,
+      536879739,
+      536879757,
+      536879770,
+      536879827,
+      536879894,
+      536879895,
+      536879992,
+      536880066,
+      536880072,
+      536880195,
+      536880222,
+      536880234,
+      536880235,
+      536880240,
+      536880241,
+      536880252,
+      536880286,
+      536880360,
+      536880508,
+      536880538,
+      536880606,
+      536880704,
+      536880709,
+      536880711,
+      536880712,
+      536880713,
+      536880714,
+      536880750,
+      536880863,
+      536880864,
+      536880878,
+      536880883,
+      536880920,
+      536881068,
+      536881431,
+      536881595,
+      536881668,
+      536881675,
+      536882011,
+      536882033,
+      536882192,
+      536882193,
+      536882445,
+      536882548,
+      536882680,
+      536882925,
+      536882940,
+      536883354,
+      536883374,
+      536883577,
+      536883578
+    ],
+    "themes": [
+      1,
+      21,
+      23
+    ],
+    "total_rating": 86.82171006340309,
+    "total_rating_count": 18,
+    "updated_at": 1665906717,
+    "url": "https://www.igdb.com/games/metal-gear-solid-snake-eater-3d",
+    "videos": [
+      33256
+    ],
+    "websites": [
+      50244,
+      50245
+    ],
+    "checksum": "3bb4c128-40fe-4f42-aa9c-453677399e22",
+    "game_localizations": [
+      2381
+    ]
+  },
+  {
+    "id": 7881,
+    "age_ratings": [
+      4642,
+      6109
+    ],
+    "aggregated_rating": 91.5,
+    "aggregated_rating_count": 3,
+    "alternative_names": [
+      58795,
+      58796,
+      58799
+    ],
+    "category": 0,
+    "collection": 1199,
+    "cover": 136747,
+    "created_at": 1414221982,
+    "external_games": [
+      24617,
+      145120,
+      1191538
+    ],
+    "first_release_date": 1090281600,
+    "follows": 5,
+    "franchises": [
+      224
+    ],
+    "game_modes": [
+      1,
+      2,
+      3
+    ],
+    "genres": [
+      13,
+      14
+    ],
+    "involved_companies": [
+      18404,
+      18406,
+      21749
+    ],
+    "keywords": [
+      26,
+      27,
+      32,
+      1166,
+      1333,
+      1440,
+      1725,
+      4226,
+      4228,
+      4274,
+      4552,
+      4582,
+      4650,
+      4837,
+      4890,
+      4945,
+      4958,
+      5029,
+      5278,
+      5573,
+      6494,
+      6774,
+      7179,
+      7180,
+      7181,
+      7213,
+      8209,
+      8736,
+      8737,
+      8738,
+      8739,
+      8741,
+      8743,
+      8744,
+      8745,
+      8746,
+      8747,
+      8756,
+      8758,
+      8962,
+      9036,
+      9075,
+      9579,
+      10519,
+      11895,
+      12116,
+      13110,
+      13295,
+      15398
+    ],
+    "multiplayer_modes": [
+      13989
+    ],
+    "name": "ESPN NFL 2K5",
+    "platforms": [
+      8,
+      11
+    ],
+    "player_perspectives": [
+      1,
+      2,
+      3
+    ],
+    "rating": 99.3096835688132,
+    "rating_count": 15,
+    "release_dates": [
+      20869,
+      20870,
+      237728,
+      237729
+    ],
+    "screenshots": [
+      430943,
+      430944,
+      430945,
+      430946,
+      430947,
+      430948,
+      430949,
+      430950,
+      430951,
+      430952,
+      430953,
+      430954
+    ],
+    "similar_games": [
+      4381,
+      4506,
+      8842,
+      8843,
+      8845,
+      8847,
+      43399,
+      43706,
+      43763,
+      45216
+    ],
+    "slug": "espn-nfl-2k5",
+    "summary": "ESPN NFL 2K5 is an American football video game developed by Visual Concepts for the PlayStation 2 and Xbox consoles. Published by Sega Sports and the Sega Corporation, it is the sixth installment of the NFL 2K series and the last to use official NFL licensing until an unnamed sequel is released in 2021. Gameplay is presented as a live ESPN television broadcast and features the voices and digital likenesses of multiple ESPN on-air personalities. \n \nThe game was originally released on July 20, 2004. It was the last NFL 2K game to be released before Electronic Arts (EA) signed an exclusive rights agreement with the National Football League (NFL) to make 2K\u0027s rival Madden NFL series the only officially licensed NFL game and was also the last game still being developed by Sega.",
+    "tags": [
+      1,
+      32,
+      268435469,
+      268435470,
+      536870938,
+      536870939,
+      536870944,
+      536872078,
+      536872245,
+      536872352,
+      536872637,
+      536875138,
+      536875140,
+      536875186,
+      536875464,
+      536875494,
+      536875562,
+      536875749,
+      536875802,
+      536875857,
+      536875870,
+      536875941,
+      536876190,
+      536876485,
+      536877406,
+      536877686,
+      536878091,
+      536878092,
+      536878093,
+      536878125,
+      536879121,
+      536879648,
+      536879649,
+      536879650,
+      536879651,
+      536879653,
+      536879655,
+      536879656,
+      536879657,
+      536879658,
+      536879659,
+      536879668,
+      536879670,
+      536879874,
+      536879948,
+      536879987,
+      536880491,
+      536881431,
+      536882807,
+      536883028,
+      536884022,
+      536884207,
+      536886310
+    ],
+    "themes": [
+      1,
+      32
+    ],
+    "total_rating": 95.4048417844066,
+    "total_rating_count": 18,
+    "updated_at": 1665906723,
+    "url": "https://www.igdb.com/games/espn-nfl-2k5",
+    "videos": [
+      3006
+    ],
+    "websites": [
+      129141,
+      176870,
+      176871,
+      176872,
+      176873,
+      176874,
+      176875,
+      176876,
+      176877
+    ],
+    "checksum": "fc7ad3be-4fbf-c838-d4fa-667a7d62ec51"
+  }
+]
